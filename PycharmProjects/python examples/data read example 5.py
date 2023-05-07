@@ -1,0 +1,5 @@
+print("enter a two values:")
+a=float(input())
+b=float(input())
+print("="*50)
+print("sum of ({},{})={}".format(a,b,round(a*b,2)))
